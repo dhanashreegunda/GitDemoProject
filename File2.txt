@@ -1,5 +1,11 @@
 Hello ->File to be created for CR1
 
+
 file updated for push check on remote server
 
 Change 4- to test changes from remote master for rebase 
+
+change 1 ->file updated for push check on remote server
+
+Change 2 -> test for rebase from local master
+ File2 is updated for change 2 and arrow and spell check
